@@ -1,0 +1,10 @@
+# Segredos: o .env real nunca vai para o git (use .env.example)
+.env
+*.pem
+*.key
+
+# Dados locais dos contêineres
+data/
+volumes/
+
+.DS_Store
